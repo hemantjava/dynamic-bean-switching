@@ -1,6 +1,6 @@
 # dynamic-bean-switch
 
-* Payment mode -> papal,strip,razorpay
+* Payment mode -> papal,stripe,razorpay
 ```json
 {
   "amount": "5000",
@@ -12,4 +12,5 @@
 ## Swagger-ui end point
 ```html
 http://localhost:9191/swagger-ui/index.html
+
 ```
